@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lucas/Desktop/HailMary/reverse_proxy/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
