@@ -30,7 +30,6 @@ set(SOURCES
     src/proxy/ConnectionHandler.cpp
     src/load_balancer/Backend.cpp
     src/load_balancer/BackendPool.cpp
-    src/load_balancer/LoadBalancer.cpp
     src/load_balancer/RoundRobinBalancer.cpp
     src/health/HealthChecker.cpp
     src/rate_limit/TokenBucket.cpp

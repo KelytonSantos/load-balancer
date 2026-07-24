@@ -1,0 +1,8 @@
+# Pastas de Build e Configurações locais
+build/
+compile_commands.json
+.cache/
+.vscode/
+
+# Executáveis gerados
+reverse_proxy

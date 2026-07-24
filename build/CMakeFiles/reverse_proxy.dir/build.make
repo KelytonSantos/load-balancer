@@ -198,24 +198,10 @@ CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/BackendPool.cpp -o CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.s
 
-CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o: CMakeFiles/reverse_proxy.dir/flags.make
-CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o: /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/LoadBalancer.cpp
-CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o -MF CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o.d -o CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o -c /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/LoadBalancer.cpp
-
-CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/LoadBalancer.cpp > CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.i
-
-CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/LoadBalancer.cpp -o CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.s
-
 CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o: CMakeFiles/reverse_proxy.dir/flags.make
 CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o: /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/RoundRobinBalancer.cpp
 CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o -MF CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o.d -o CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o -c /home/lucas/Desktop/HailMary/reverse_proxy/src/load_balancer/RoundRobinBalancer.cpp
 
 CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.i: cmake_force
@@ -229,7 +215,7 @@ CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.s: cmake_f
 CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o: CMakeFiles/reverse_proxy.dir/flags.make
 CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o: /home/lucas/Desktop/HailMary/reverse_proxy/src/health/HealthChecker.cpp
 CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o -MF CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o.d -o CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o -c /home/lucas/Desktop/HailMary/reverse_proxy/src/health/HealthChecker.cpp
 
 CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.i: cmake_force
@@ -243,7 +229,7 @@ CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.s: cmake_force
 CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o: CMakeFiles/reverse_proxy.dir/flags.make
 CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o: /home/lucas/Desktop/HailMary/reverse_proxy/src/rate_limit/TokenBucket.cpp
 CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o -MF CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o.d -o CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o -c /home/lucas/Desktop/HailMary/reverse_proxy/src/rate_limit/TokenBucket.cpp
 
 CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.i: cmake_force
@@ -257,7 +243,7 @@ CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.s: cmake_force
 CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o: CMakeFiles/reverse_proxy.dir/flags.make
 CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o: /home/lucas/Desktop/HailMary/reverse_proxy/src/rate_limit/RateLimiter.cpp
 CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o -MF CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o.d -o CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.o -c /home/lucas/Desktop/HailMary/reverse_proxy/src/rate_limit/RateLimiter.cpp
 
 CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.i: cmake_force
@@ -271,7 +257,7 @@ CMakeFiles/reverse_proxy.dir/src/rate_limit/RateLimiter.cpp.s: cmake_force
 CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o: CMakeFiles/reverse_proxy.dir/flags.make
 CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o: /home/lucas/Desktop/HailMary/reverse_proxy/src/utils/Logger.cpp
 CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o -MF CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o.d -o CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o -c /home/lucas/Desktop/HailMary/reverse_proxy/src/utils/Logger.cpp
 
 CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.i: cmake_force
@@ -293,7 +279,6 @@ reverse_proxy_OBJECTS = \
 "CMakeFiles/reverse_proxy.dir/src/proxy/ConnectionHandler.cpp.o" \
 "CMakeFiles/reverse_proxy.dir/src/load_balancer/Backend.cpp.o" \
 "CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.o" \
-"CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o" \
 "CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o" \
 "CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o" \
 "CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o" \
@@ -312,7 +297,6 @@ reverse_proxy: CMakeFiles/reverse_proxy.dir/src/proxy/ReverseProxy.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/src/proxy/ConnectionHandler.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/src/load_balancer/Backend.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.o
-reverse_proxy: CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/src/health/HealthChecker.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/src/rate_limit/TokenBucket.cpp.o
@@ -321,7 +305,7 @@ reverse_proxy: CMakeFiles/reverse_proxy.dir/src/utils/Logger.cpp.o
 reverse_proxy: CMakeFiles/reverse_proxy.dir/build.make
 reverse_proxy: CMakeFiles/reverse_proxy.dir/compiler_depend.ts
 reverse_proxy: CMakeFiles/reverse_proxy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable reverse_proxy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lucas/Desktop/HailMary/reverse_proxy/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable reverse_proxy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/reverse_proxy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

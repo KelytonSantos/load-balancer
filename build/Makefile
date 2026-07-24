@@ -225,30 +225,6 @@ src/load_balancer/BackendPool.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/reverse_proxy.dir/build.make CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.s
 .PHONY : src/load_balancer/BackendPool.cpp.s
 
-src/load_balancer/LoadBalancer.o: src/load_balancer/LoadBalancer.cpp.o
-.PHONY : src/load_balancer/LoadBalancer.o
-
-# target to build an object file
-src/load_balancer/LoadBalancer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/reverse_proxy.dir/build.make CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o
-.PHONY : src/load_balancer/LoadBalancer.cpp.o
-
-src/load_balancer/LoadBalancer.i: src/load_balancer/LoadBalancer.cpp.i
-.PHONY : src/load_balancer/LoadBalancer.i
-
-# target to preprocess a source file
-src/load_balancer/LoadBalancer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/reverse_proxy.dir/build.make CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.i
-.PHONY : src/load_balancer/LoadBalancer.cpp.i
-
-src/load_balancer/LoadBalancer.s: src/load_balancer/LoadBalancer.cpp.s
-.PHONY : src/load_balancer/LoadBalancer.s
-
-# target to generate assembly for a file
-src/load_balancer/LoadBalancer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/reverse_proxy.dir/build.make CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.s
-.PHONY : src/load_balancer/LoadBalancer.cpp.s
-
 src/load_balancer/RoundRobinBalancer.o: src/load_balancer/RoundRobinBalancer.cpp.o
 .PHONY : src/load_balancer/RoundRobinBalancer.o
 
@@ -510,9 +486,6 @@ help:
 	@echo "... src/load_balancer/BackendPool.o"
 	@echo "... src/load_balancer/BackendPool.i"
 	@echo "... src/load_balancer/BackendPool.s"
-	@echo "... src/load_balancer/LoadBalancer.o"
-	@echo "... src/load_balancer/LoadBalancer.i"
-	@echo "... src/load_balancer/LoadBalancer.s"
 	@echo "... src/load_balancer/RoundRobinBalancer.o"
 	@echo "... src/load_balancer/RoundRobinBalancer.i"
 	@echo "... src/load_balancer/RoundRobinBalancer.s"

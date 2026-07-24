@@ -8,8 +8,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/reverse_proxy.dir/src/load_balancer/Backend.cpp.o.d"
   "CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.o"
   "CMakeFiles/reverse_proxy.dir/src/load_balancer/BackendPool.cpp.o.d"
-  "CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o"
-  "CMakeFiles/reverse_proxy.dir/src/load_balancer/LoadBalancer.cpp.o.d"
   "CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o"
   "CMakeFiles/reverse_proxy.dir/src/load_balancer/RoundRobinBalancer.cpp.o.d"
   "CMakeFiles/reverse_proxy.dir/src/main.cpp.o"
