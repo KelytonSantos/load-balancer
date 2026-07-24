@@ -3,6 +3,6 @@ build/
 compile_commands.json
 .cache/
 .vscode/
-
+trash.txt
 # Executáveis gerados
 reverse_proxy
