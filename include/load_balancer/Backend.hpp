@@ -7,7 +7,7 @@ class Backend {
 public:
   Backend(const std::string &host, int port);
 
-  const std::string &gethost() const;
+  const std::string &getHost() const;
   int getPort() const;
 
 private:
