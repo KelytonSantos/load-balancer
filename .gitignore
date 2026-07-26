@@ -4,5 +4,6 @@ compile_commands.json
 .cache/
 .vscode/
 trash.txt
+.txt
 # Executáveis gerados
 reverse_proxy
